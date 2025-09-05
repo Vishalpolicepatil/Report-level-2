@@ -30,5 +30,41 @@ I have completed the MATLAB Onramp course in which i learned the fundamentals of
 **6. Complete a Final Project:** Analyzing light from a star to determine its motion. \
 **Certificate :** \
 ![alt text](https://github.com/Vishalpolicepatil/Report-level-2/blob/main/Screenshot%202025-08-27%20180014.png?raw=true)
+# TASK 3 : Autonomous Flight Planning & Execution
+
+**Objective :** \
+To understand and practice autonomous flight mission planning using Mission Planner and the ArduPilot simulator. \
+**Task :** \
+1.To learn about the Heads Up Display (HUD)available in the Mission Planner.  
+### Heads Up Display (HUD)
+The Heads-Up Display (HUD) in Mission Planner is a critical component of the ground control station software, providing real-time flight data and situational awareness for operators of unmanned aerial vehicles (UAVs), rovers, and other robotic vehicles. \
+![alt text](https://github.com/Vishalpolicepatil/Report-level-2/blob/main/Screenshot%202025-08-30%20150826.png?raw=true)
+1.Airspeed (Groundspeed if no airspeed sensor is fitted) \
+2.Crosstrack error and turn rate (T) \
+3.Heading direction \
+4.Bank angle \
+5.Telemetry connection link quality (averaged percentage of good packets) \
+6.GPS time \
+7.Altitude (Blue bar is the rate of climb) \
+8.Airspeed \
+9.Groundspeed \
+10.Battery status \
+11.Artificial Horizon \
+12.Aircraft Attitude \
+13.GPS Status \
+14.Distance to Waypoint > Current Waypoint Number \
+15.Current Flight Mode 
+### Geofence 
+The virtual boundary that restrict the vehicle from flying into unsafe or restricted zone. 
+### Types of Geofence
+**1.Cylindrical Fence :** Circular boundary to restrict the vehicle. \
+**2.Polygonal Fence :** Linear boundary that is useful to fly a vehicle into desired area and shape. \
+![image link](https://github.com/Vishalpolicepatil/Report-level-2/blob/main/Screenshot%202025-09-04%20220521.png?raw=true) \
+[click here](https://youtu.be/l0WbwB-BPwc?t=9) to view video of performing the virtual mission. \
+**Left Topics** \
+1.Surveying \
+2.Simulink onramp course in matlab 
+
+**THANK YOU**
 
 
